@@ -1,0 +1,2 @@
+convert -dispose previous -delay .01 -loop 0 t1/*.png ll.gif
+
